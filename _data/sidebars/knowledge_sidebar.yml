@@ -1,0 +1,40 @@
+entries:
+- title: sidebar
+  product: Jekyll Doc Theme
+  version: 6.0
+  folders:
+
+  - title: KnowledgeBase
+    output: pdf
+    type: frontmatter
+    folderitems:
+
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: PowerShell
+    output: web
+    folderitems:
+
+        subfolders:
+        - title: Basics
+          output: web
+          subfolderitems:
+
+            - title: PowerShell Cmdlet finden
+            - url: /docs/PowerShell/Basics/PowerShell Cmdlet finden - 9 Möglichkeiten der Suche.md
+            - output: web, docs
+
+            - title: PowerShell Objekt Analyse
+            - url: /docs/PowerShell/Basics/PowerShell Objekt Analyse - Einfach in 3 Schritten gezeigt.md
+            - output: web, docs
+
+            - title: PowerShell Objekt erweitern
+            - url: /docs/PowerShell/Basics/PowerShell Objekt erweitern - 2 einfache Möglichkeiten.md
+            - output: web, docs

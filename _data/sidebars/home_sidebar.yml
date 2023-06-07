@@ -1,0 +1,15 @@
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: KnowledgeBase
+    output: web
+    folderitems:
+      - title: PowerShell
+        url: /PowerShell/index.html
+        output: web
+        
+      - title: Jekyll
+        url: /Jekyll/index.html
+        output: web

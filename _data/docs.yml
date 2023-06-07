@@ -1,0 +1,11 @@
+toc:
+  - title: PowerShell
+    subcategory:
+      - title: Basics 
+        docs:
+          - page: PowerShell Cmdlet finden
+          - url: /PowerShell Cmdlet finden - 9 Möglichkeiten der Suche.md
+          - page: PowerShell Objekt Analyse
+          - url: /PowerShell Objekt Analyse - Einfach in 3 Schritten gezeigt.md
+
+
